@@ -1,7 +1,7 @@
 .grid {
     margin-top: 3em;
     display: grid;
-    grid-auto-columns: repeat(2, 50%);
+    grid-template-columns: repeat(2, 45%);
     gap: 1em;
 }
 
