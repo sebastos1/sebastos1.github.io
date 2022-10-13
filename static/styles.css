@@ -1,7 +1,17 @@
+.heading {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.heading > * {
+    margin: 0;
+}
+
 .grid {
     margin-top: 3em;
     display: grid;
-    grid-template-columns: repeat(2, 45%);
+    grid-template-columns: repeat(2, 50%);
     gap: 1em;
 }
 
