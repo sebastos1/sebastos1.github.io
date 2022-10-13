@@ -1,0 +1,16 @@
+
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #161616;
+    padding: 10px;
+}
+
+.box {
+    border-radius: 25px;
+    border: 2px solid #3a3a3a;
+    padding: 20px;
+    width: 50%;
+    height: 50%;
+}
